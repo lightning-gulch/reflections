@@ -17,8 +17,17 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+  Some situations when branches would be helpful in keeping your history organized are:
+  - try out experimental features
+  - trying out different languange versions
+  - a development branch
+  - compartmentalize pieces of work
+  - do these while continuing on with master branch for fixes
 
 How do the diagrams help you visualize the branch structure?
+	The diagrams assist in seeing where we seperated from the master and the commits/changes
+	that have been made to each. Can assist in determining what needs to be added back into
+	one or the other branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
