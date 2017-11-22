@@ -16,12 +16,19 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    These are all ways to make changes without affecting the existing version of
+	your work. A branch adds the new changes in the same repository whereas cloning 
+	and forking copy the repository to a new location to make the changes. Forking
+	is a GitHub feature and the copy of the repository is from one location on GitHub 
+	to another location on GitHub. Forking allows public changes to a repository while
+	maintaingin the original by permissions - do not allow public modification, only 
+	forking. 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    This allows you to work offline and merge the changes into your own branches when
+	ready. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
